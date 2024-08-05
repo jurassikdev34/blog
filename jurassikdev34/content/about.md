@@ -1,7 +1,7 @@
 +++
 title = 'About'
-date = 2024-08-05T16:17:42+02:00
 +++
 
+La descripcion de esta pagina es sumamente similar a [el primer post](/posts/creation.md)
 
-## XD
+Soy un interesado en las tecnologias retro como la PlayStation2, ademas soy programador full-stack. Estudiante de bachillerato de ciencias. Y con intenciones de estudiar un grado universitario

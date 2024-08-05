@@ -2,3 +2,6 @@
 	path = jurassikdev34/public
 	url = https://github.com/jurassikdev34/jurassikdev34.github.io.git
 	branch = main
+[submodule "jurassikdev34/themes/smigle"]
+	path = jurassikdev34/themes/smigle
+	url = https://gitlab.com/ian-s-mcb/smigle-hugo-theme.git
