@@ -1,0 +1,4 @@
+[submodule "jurassikdev34/public"]
+	path = jurassikdev34/public
+	url = https://github.com/jurassikdev34/jurassikdev34.github.io.git
+	branch = main
