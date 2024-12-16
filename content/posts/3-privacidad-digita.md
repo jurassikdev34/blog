@@ -3,11 +3,15 @@ title: Privacidad Digital
 date: 2024-10-28
 draft: false
 tags:
-  - privacidad digital
-  - software libre
-  - minimalismo digital
-  - crítica tecnológica
-  - dependencia tecnológica
+  - privacidad
+  - digital
+  - software
+  - libre
+  - minimalismo
+  - digital
+  - crítica
+  - tecnológica
+  - dependencia
   - JurassikDev34
 ---
 
