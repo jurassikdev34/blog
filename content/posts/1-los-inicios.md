@@ -4,10 +4,9 @@ date: 2024-10-14
 draft: false
 tags:
   - JurassikDev34
-  - blog
   - Internet libre
   - software libre
-  - crítica tecnología
+  - crítica 
   - dependencia tecnológica
   - simplificación web
 ---

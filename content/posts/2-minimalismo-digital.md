@@ -4,12 +4,11 @@ date: 2024-10-21
 draft: false
 tags:
   - minimalismo digital
-  - crítica tecnológica
-  - sociedad dependiente
-  - blog minimalista
+  - crítica 
+  - dependencia
+  - minimalismo
   - software libre
   - JurassikDev34
-  - reflexión crítica
 ---
 
 # Minimalismo Digital
