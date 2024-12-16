@@ -7,7 +7,7 @@ cd /home/alejandro/jurassikdev34
 
 # Set variables for Obsidian to Hugo copy
 sourcePath="/home/alejandro/notas/posts"
-destinationPath="/home/alejandro/jurassikdev34/"
+destinationPath="/home/alejandro/jurassikdev34/content"
 
 # Set GitHub Repo
 myrepo="git@gitlab.com:jurassikdev34/blog"
