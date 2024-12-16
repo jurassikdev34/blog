@@ -78,18 +78,24 @@ if ! git push origin master; then
     exit 1
 fi
 
-# Step 8: Push the public folder to the hostinger branch using subtree split and force push
-echo "Deploying to GitHub Hostinger..."
+
+# Verificar si la rama deploy ya existe, pero sin borrarla
 if git branch --list | grep -q 'deploy'; then
-    git branch -D deploy
+    echo "'deploy' branch already exists, skipping deletion."
+else
+    # Crear la rama deploy desde la carpeta public
+    if ! git subtree split --prefix public -b deploy; then
+        echo "Subtree split failed."
+        exit 1
+    else
+        echo "'deploy' branch created from 'public'."
+    fi
 fi
 
-if ! git subtree split --prefix public -b deploy; then
-    echo "Subtree split failed."
-    exit 1
-fi
+# Hacer push forzado a la rama deploy en el repositorio remoto
+echo "Pushing 'deploy' branch to remote..."
+git push origin deploy --force
 
-git branch -D deploy
 
 echo "All done! Site synced, processed, committed, built, and deployed."
 
