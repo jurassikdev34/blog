@@ -6,8 +6,8 @@ set -euo pipefail
 cd /home/alejandro/jurassikdev34 
 
 # Set variables for Obsidian to Hugo copy
-sourcePath="/home/alejandro/notas/posts"
-destinationPath="/home/alejandro/jurassikdev34/content"
+sourcePath="/home/alejandro/notas/content"
+destinationPath="/home/alejandro/jurassikdev34/"
 
 # Set GitHub Repo
 myrepo="git@gitlab.com:jurassikdev34/blog"

@@ -3,7 +3,7 @@ import re
 import shutil
 
 # Paths
-posts_dir = "/home/alejandro/notas/posts/"
+posts_dir = "/home/alejandro/notas/content/"
 attachments_dir = "/home/alejandro/notas/imagenes/"
 static_images_dir = "/home/alejandro/jurassikdev34/static/images/"
 
