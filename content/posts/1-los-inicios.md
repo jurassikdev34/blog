@@ -15,7 +15,7 @@ tags:
 
 Publicado el 14 de octubre de 2024
 
-Este primer post será algo similar a [Sobre](../sobre), pero aquí no vengo a hablar de mí, sino a presentar el propósito de este blog. La razón de ser de esta bitácora digital no es otra que la de desafiar el concepto mismo de "modernidad" que se nos ha impuesto en Internet. Me propongo aquí abogar por una vuelta a lo básico, a un entorno en línea que sea ante todo libre, genuino y menos dominado por las grandes entidades corporativas.
+Este primer post será algo similar a [Sobre](/sobre), pero aquí no vengo a hablar de mí, sino a presentar el propósito de este blog. La razón de ser de esta bitácora digital no es otra que la de desafiar el concepto mismo de "modernidad" que se nos ha impuesto en Internet. Me propongo aquí abogar por una vuelta a lo básico, a un entorno en línea que sea ante todo libre, genuino y menos dominado por las grandes entidades corporativas.
 
 La iniciativa detrás de este blog es clara: contribuir a un Internet más sencillo y más libre. Como algunos ya sabrán, soy un firme defensor del código libre o, en inglés, "Free Software", no solo como un conjunto de licencias o prácticas técnicas, sino como una filosofía que defiende el derecho de todos a entender, modificar y compartir lo que usamos. Hoy en día, la tecnología nos rodea a tal punto que parecería impensable cualquier actividad sin ella, pero en mi opinión, esta dependencia es peligrosa. La verdadera tecnología liberadora es aquella que nosotros controlamos, no la que controla nuestra atención.
 
