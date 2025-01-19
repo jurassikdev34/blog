@@ -3,11 +3,11 @@ set -euo pipefail
 
 # Change to the script's directory
 
-cd /home/juraci/blog
+cd /home/juraci/Documentos/blog
 
 # Set variables for Obsidian to Hugo copy
 sourcePath="/home/juraci/notas/content"
-destinationPath="/home/juraci/blog/"
+destinationPath="/home/juraci/Documentos/blog/"
 
 # Set GitHub Repo
 myrepo="git@gitlab.com:jurassikdev34/blog"
