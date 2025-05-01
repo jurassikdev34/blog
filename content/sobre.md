@@ -25,3 +25,5 @@ Además, soy cofundador, junto a un amigo, del [Partido Nacional Hispanista](htt
 
 Si bien no comparto todas las ideas promovidas en el partido, apoyo la mayoría. Al fin y al cabo, la política se basa en el diálogo, y considero fundamental alcanzar consensos incluso entre amigos en un proyecto común.
 
+
+<a rel="me" href="https://fosstodon.org/@jurassikdev34">Mastodon</a>
