@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JurassikDev34</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on JurassikDev34</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navidad</title>
-      <link>//localhost:1313/posts/5-navidad/</link>
+      <link>/posts/5-navidad/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/5-navidad/</guid>
+      <guid>/posts/5-navidad/</guid>
       <description>Publicado el 22 de diciembre de 2024
 Bueno, parecerá raro publicar dos entradas tan seguidas, pero siento la necesidad de reflexionar sobre este tema.
 Navidad&amp;hellip; esa época de felicidad, amor, familia&amp;hellip; y muchas compras innecesarias. Es impresionante observar cómo el consumismo ha devorado el verdadero espíritu de estas fechas. Regalos y más regalos; un no parar de comprar: que si un detalle para los abuelos, otro para los primos, algo para los tíos, los niños, los padres, incluso los vecinos.</description>
@@ -32,10 +32,10 @@ Navidad&amp;hellip; esa época de felicidad, amor, familia&amp;hellip; y muchas 
     
     <item>
       <title>Bitcoin</title>
-      <link>//localhost:1313/posts/4-bitcoin/</link>
+      <link>/posts/4-bitcoin/</link>
       <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/4-bitcoin/</guid>
+      <guid>/posts/4-bitcoin/</guid>
       <description>Publicado el 20 de diciembre de 2024
 Hoy me he decidido a retomar uno de los temas que más me apasionan: Bitcoin. Como sabrán aquellos que siguen al Partido Nacional Hispanista (PNH), soy un firme defensor de la economía libre que representa esta criptomoneda. En este artículo, no voy a perder el tiempo explicando lo que es Bitcoin ni enumerando sus características, porque eso ya es de sobra conocido por muchos.</description>
       <content>&lt;p&gt;Publicado el 20 de diciembre de 2024&lt;/p&gt;
@@ -56,10 +56,10 @@ Hoy me he decidido a retomar uno de los temas que más me apasionan: Bitcoin. Co
     
     <item>
       <title>Privacidad Digital</title>
-      <link>//localhost:1313/posts/3-privacidad-digita/</link>
+      <link>/posts/3-privacidad-digita/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/3-privacidad-digita/</guid>
+      <guid>/posts/3-privacidad-digita/</guid>
       <description>Privacidad Digital Publicado el 28 de octubre de 2024
 Hablar de privacidad digital en la era actual es casi un acto de resistencia. La dependencia que nuestra sociedad ha desarrollado hacia los dispositivos y plataformas digitales ha convertido el concepto de &amp;ldquo;privacidad&amp;rdquo; en un lujo que pocos comprenden y menos practican. Es algo que, irónicamente, me parece tanto preocupante como fascinante.
 No es necesario mirar muy lejos para ver cómo las grandes tecnológicas han logrado instaurar un modelo donde los datos personales no solo son recolectados, sino comerciados como si se tratase de bienes físicos.</description>
@@ -79,10 +79,10 @@ No es necesario mirar muy lejos para ver cómo las grandes tecnológicas han log
     
     <item>
       <title>Minimalismo Digital</title>
-      <link>//localhost:1313/posts/2-minimalismo-digital/</link>
+      <link>/posts/2-minimalismo-digital/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/2-minimalismo-digital/</guid>
+      <guid>/posts/2-minimalismo-digital/</guid>
       <description>Minimalismo Digital Publicado el 21 de octubre de 2024
 Vivimos en una sociedad profundamente dependiente de la tecnología, donde las prioridades parecen haber sido secuestradas por algoritmos y notificaciones. Se ha normalizado la hiperconexión, al punto de que la desconexión o la simplificación tecnológica son vistas como actos excéntricos, cuando no como radicales. Pero ¿hasta qué punto aceptamos esta dependencia sin cuestionarla? El minimalismo digital se presenta, entonces, como una llamada urgente a reevaluar nuestras elecciones y las consecuencias de una vida entregada al ruido digital.</description>
       <content>&lt;h1 id=&#34;minimalismo-digital&#34;&gt;Minimalismo Digital&lt;/h1&gt;
@@ -101,10 +101,10 @@ Vivimos en una sociedad profundamente dependiente de la tecnología, donde las p
     
     <item>
       <title>Los Inicios</title>
-      <link>//localhost:1313/posts/1-los-inicios/</link>
+      <link>/posts/1-los-inicios/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/1-los-inicios/</guid>
+      <guid>/posts/1-los-inicios/</guid>
       <description>Los Inicios Publicado el 14 de octubre de 2024
 Este primer post será algo similar a Sobre, pero aquí no vengo a hablar de mí, sino a presentar el propósito de este blog. La razón de ser de esta bitácora digital no es otra que la de desafiar el concepto mismo de &amp;ldquo;modernidad&amp;rdquo; que se nos ha impuesto en Internet. Me propongo aquí abogar por una vuelta a lo básico, a un entorno en línea que sea ante todo libre, genuino y menos dominado por las grandes entidades corporativas.</description>
       <content>&lt;h1 id=&#34;los-inicios&#34;&gt;Los Inicios&lt;/h1&gt;
@@ -123,10 +123,10 @@ Este primer post será algo similar a Sobre, pero aquí no vengo a hablar de mí
     
     <item>
       <title>Filosofy</title>
-      <link>//localhost:1313/posts/filosofy/</link>
+      <link>/posts/filosofy/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/filosofy/</guid>
+      <guid>/posts/filosofy/</guid>
       <description>Filosofía y Tecnología: ¿Podemos Convivir con la Vigilancia Masiva? La era digital ha traído consigo avances tecnológicos sorprendentes, pero también ha planteado serias preguntas filosóficas sobre la privacidad y la libertad. La vigilancia masiva, facilitada por tecnologías como la inteligencia artificial y el análisis de datos, se ha convertido en una realidad ineludible. Este fenómeno no solo desafía nuestras concepciones tradicionales de privacidad, sino que también plantea preguntas fundamentales sobre nuestra autonomía y el equilibrio entre seguridad y libertad.</description>
       <content>&lt;h2 id=&#34;filosofía-y-tecnología-podemos-convivir-con-la-vigilancia-masiva&#34;&gt;Filosofía y Tecnología: ¿Podemos Convivir con la Vigilancia Masiva?&lt;/h2&gt;
 &lt;p&gt;La era digital ha traído consigo avances tecnológicos sorprendentes, pero también ha planteado serias preguntas filosóficas sobre la privacidad y la libertad. La vigilancia masiva, facilitada por tecnologías como la inteligencia artificial y el análisis de datos, se ha convertido en una realidad ineludible. Este fenómeno no solo desafía nuestras concepciones tradicionales de privacidad, sino que también plantea preguntas fundamentales sobre nuestra autonomía y el equilibrio entre seguridad y libertad. En este artículo, exploraremos cómo la tecnología y la filosofía se entrelazan en el contexto de la vigilancia masiva y cómo podemos encontrar un equilibrio en este nuevo paisaje digital.&lt;/p&gt;
@@ -167,10 +167,10 @@ Este primer post será algo similar a Sobre, pero aquí no vengo a hablar de mí
     
     <item>
       <title>Cifration</title>
-      <link>//localhost:1313/posts/cifration/</link>
+      <link>/posts/cifration/</link>
       <pubDate>Wed, 07 Aug 2024 23:52:16 +0200</pubDate>
       
-      <guid>//localhost:1313/posts/cifration/</guid>
+      <guid>/posts/cifration/</guid>
       <description>Matemáticas del Cifrado: Cómo Funciona la Criptografía Moderna La criptografía es una disciplina fundamental en el mundo digital actual, esencial para garantizar la privacidad y la seguridad de nuestras comunicaciones. Desde los correos electrónicos hasta las transacciones bancarias, la criptografía asegura que la información permanezca confidencial y que solo las personas autorizadas puedan acceder a ella. Pero, ¿cómo funciona exactamente la criptografía moderna? En este artículo, desglosaremos los principios matemáticos detrás de los algoritmos de cifrado que protegen nuestros datos en la era digital.</description>
       <content>&lt;h2 id=&#34;matemáticas-del-cifrado-cómo-funciona-la-criptografía-moderna&#34;&gt;Matemáticas del Cifrado: Cómo Funciona la Criptografía Moderna&lt;/h2&gt;
 &lt;p&gt;La criptografía es una disciplina fundamental en el mundo digital actual, esencial para garantizar la privacidad y la seguridad de nuestras comunicaciones. Desde los correos electrónicos hasta las transacciones bancarias, la criptografía asegura que la información permanezca confidencial y que solo las personas autorizadas puedan acceder a ella. Pero, ¿cómo funciona exactamente la criptografía moderna? En este artículo, desglosaremos los principios matemáticos detrás de los algoritmos de cifrado que protegen nuestros datos en la era digital.&lt;/p&gt;
@@ -201,15 +201,15 @@ Este primer post será algo similar a Sobre, pero aquí no vengo a hablar de mí
     
     <item>
       <title>Privacy</title>
-      <link>//localhost:1313/posts/privacy/</link>
+      <link>/posts/privacy/</link>
       <pubDate>Tue, 06 Aug 2024 16:18:38 +0200</pubDate>
       
-      <guid>//localhost:1313/posts/privacy/</guid>
+      <guid>/posts/privacy/</guid>
       <description>¿Por Qué Nos Importa la Privacidad Digital? En el mundo moderno, donde cada clic y cada &amp;ldquo;like&amp;rdquo; pueden ser rastreados, la privacidad digital se ha convertido en un tema de primer plano. A diferencia de nuestra privacidad física, que a menudo se toma por sentado gracias a simples medidas como cortinas y persianas, la privacidad digital requiere un esfuerzo consciente y considerado.
 La Falsa Justificación Muchas personas argumentan que no necesitan preocuparse por su privacidad digital porque &amp;ldquo;no tienen nada que ocultar&amp;rdquo;.</description>
       <content>&lt;h2 id=&#34;por-qué-nos-importa-la-privacidad-digital&#34;&gt;¿Por Qué Nos Importa la Privacidad Digital?&lt;/h2&gt;
 &lt;p&gt;En el mundo moderno, donde cada clic y cada &amp;ldquo;like&amp;rdquo; pueden ser rastreados, la privacidad digital se ha convertido en un tema de primer plano. A diferencia de nuestra privacidad física, que a menudo se toma por sentado gracias a simples medidas como cortinas y persianas, la privacidad digital requiere un esfuerzo consciente y considerado.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/assets/privacy.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/assets/privacy.jpg&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;la-falsa-justificación&#34;&gt;La Falsa Justificación&lt;/h4&gt;
 &lt;p&gt;Muchas personas argumentan que no necesitan preocuparse por su privacidad digital porque &amp;ldquo;no tienen nada que ocultar&amp;rdquo;. Sin embargo, esta actitud ignora la realidad de que todos tenemos aspectos de nuestras vidas que preferiríamos mantener privados. Del mismo modo que cerramos las persianas y elegimos nuestros atuendos, también debemos cuidar nuestra presencia en línea. La privacidad no solo se trata de ocultar actividades ilegales o vergonzosas, sino de mantener el control sobre nuestra información personal y evitar el uso indebido de nuestros datos.&lt;/p&gt;
 &lt;h4 id=&#34;el-compromiso-entre-comodidad-y-privacidad&#34;&gt;El Compromiso entre Comodidad y Privacidad&lt;/h4&gt;
@@ -239,10 +239,10 @@ La Falsa Justificación Muchas personas argumentan que no necesitan preocuparse 
     
     <item>
       <title>Creation</title>
-      <link>//localhost:1313/posts/creation/</link>
+      <link>/posts/creation/</link>
       <pubDate>Mon, 05 Aug 2024 16:17:42 +0200</pubDate>
       
-      <guid>//localhost:1313/posts/creation/</guid>
+      <guid>/posts/creation/</guid>
       <description>Bien este es el primer post de lo que pueda venir a futuro.
 Hecho con Hugo y editado en Markdown con (Neo)VIM.
 De momento no se como continuara esto ni que tematica le quiero dar.
@@ -257,31 +257,31 @@ La idea de tener un blog vino a partir de ciertas ocurrencias de mi vida. Como e
     
     <item>
       <title>JurassikDev34 - Blog de Software Libre y Tecnología</title>
-      <link>//localhost:1313/indice/</link>
+      <link>/indice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/indice/</guid>
+      <guid>/indice/</guid>
       <description>Posts Los Inicios Minimalismo Digital Privacidad Digital Bitcoin Navidad Sobre</description>
       <content>&lt;h1 id=&#34;posts&#34;&gt;Posts&lt;/h1&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/1-los-inicios/&#34;&gt;Los Inicios&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/2-minimalismo-digital/&#34;&gt;Minimalismo Digital&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/3-privacidad-digita/&#34;&gt;Privacidad Digital&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/4-bitcoin/&#34;&gt;Bitcoin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/5-navidad/&#34;&gt;Navidad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/1-los-inicios/&#34;&gt;Los Inicios&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/2-minimalismo-digital/&#34;&gt;Minimalismo Digital&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/3-privacidad-digita/&#34;&gt;Privacidad Digital&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/4-bitcoin/&#34;&gt;Bitcoin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/5-navidad/&#34;&gt;Navidad&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;a href=&#34;//localhost:1313/sobre/&#34;&gt;Sobre&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/sobre/&#34;&gt;Sobre&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>Sobre JurassikDev34 - Blog de Software Libre y Tecnología</title>
-      <link>//localhost:1313/sobre/</link>
+      <link>/sobre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/sobre/</guid>
+      <guid>/sobre/</guid>
       <description>Sobre Soy un estudiante español, defensor del software libre, del minimalismo digital y de la privacidad en el ámbito de la tecnología.
 El objetivo de este blog es fomentar un Internet más sencillo, similar al de los años 90. Sin sobrecargar la web, simple HTML y CSS, quiza algo de Javascript pero muy poco porque al fin y al cabo no añade nada de valor real a la web.
 Mi Trayectoria en Programación Comencé a programar a los 14 años siguiendo los tutoriales de Java de Programación ATS.</description>

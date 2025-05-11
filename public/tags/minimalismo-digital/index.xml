@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minimalismo Digital on JurassikDev34</title>
-    <link>//localhost:1313/tags/minimalismo-digital/</link>
+    <link>/tags/minimalismo-digital/</link>
     <description>Recent content in Minimalismo Digital on JurassikDev34</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/minimalismo-digital/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/minimalismo-digital/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacidad Digital</title>
-      <link>//localhost:1313/posts/3-privacidad-digita/</link>
+      <link>/posts/3-privacidad-digita/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/3-privacidad-digita/</guid>
+      <guid>/posts/3-privacidad-digita/</guid>
       <description>Privacidad Digital Publicado el 28 de octubre de 2024
 Hablar de privacidad digital en la era actual es casi un acto de resistencia. La dependencia que nuestra sociedad ha desarrollado hacia los dispositivos y plataformas digitales ha convertido el concepto de &amp;ldquo;privacidad&amp;rdquo; en un lujo que pocos comprenden y menos practican. Es algo que, irónicamente, me parece tanto preocupante como fascinante.
 No es necesario mirar muy lejos para ver cómo las grandes tecnológicas han logrado instaurar un modelo donde los datos personales no solo son recolectados, sino comerciados como si se tratase de bienes físicos.</description>
@@ -32,10 +32,10 @@ No es necesario mirar muy lejos para ver cómo las grandes tecnológicas han log
     
     <item>
       <title>Minimalismo Digital</title>
-      <link>//localhost:1313/posts/2-minimalismo-digital/</link>
+      <link>/posts/2-minimalismo-digital/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/2-minimalismo-digital/</guid>
+      <guid>/posts/2-minimalismo-digital/</guid>
       <description>Minimalismo Digital Publicado el 21 de octubre de 2024
 Vivimos en una sociedad profundamente dependiente de la tecnología, donde las prioridades parecen haber sido secuestradas por algoritmos y notificaciones. Se ha normalizado la hiperconexión, al punto de que la desconexión o la simplificación tecnológica son vistas como actos excéntricos, cuando no como radicales. Pero ¿hasta qué punto aceptamos esta dependencia sin cuestionarla? El minimalismo digital se presenta, entonces, como una llamada urgente a reevaluar nuestras elecciones y las consecuencias de una vida entregada al ruido digital.</description>
       <content>&lt;h1 id=&#34;minimalismo-digital&#34;&gt;Minimalismo Digital&lt;/h1&gt;

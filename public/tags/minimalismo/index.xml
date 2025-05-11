@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minimalismo on JurassikDev34</title>
-    <link>//localhost:1313/tags/minimalismo/</link>
+    <link>/tags/minimalismo/</link>
     <description>Recent content in Minimalismo on JurassikDev34</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/minimalismo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/minimalismo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navidad</title>
-      <link>//localhost:1313/posts/5-navidad/</link>
+      <link>/posts/5-navidad/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/5-navidad/</guid>
+      <guid>/posts/5-navidad/</guid>
       <description>Publicado el 22 de diciembre de 2024
 Bueno, parecerá raro publicar dos entradas tan seguidas, pero siento la necesidad de reflexionar sobre este tema.
 Navidad&amp;hellip; esa época de felicidad, amor, familia&amp;hellip; y muchas compras innecesarias. Es impresionante observar cómo el consumismo ha devorado el verdadero espíritu de estas fechas. Regalos y más regalos; un no parar de comprar: que si un detalle para los abuelos, otro para los primos, algo para los tíos, los niños, los padres, incluso los vecinos.</description>
@@ -32,10 +32,10 @@ Navidad&amp;hellip; esa época de felicidad, amor, familia&amp;hellip; y muchas 
     
     <item>
       <title>Minimalismo Digital</title>
-      <link>//localhost:1313/posts/2-minimalismo-digital/</link>
+      <link>/posts/2-minimalismo-digital/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/2-minimalismo-digital/</guid>
+      <guid>/posts/2-minimalismo-digital/</guid>
       <description>Minimalismo Digital Publicado el 21 de octubre de 2024
 Vivimos en una sociedad profundamente dependiente de la tecnología, donde las prioridades parecen haber sido secuestradas por algoritmos y notificaciones. Se ha normalizado la hiperconexión, al punto de que la desconexión o la simplificación tecnológica son vistas como actos excéntricos, cuando no como radicales. Pero ¿hasta qué punto aceptamos esta dependencia sin cuestionarla? El minimalismo digital se presenta, entonces, como una llamada urgente a reevaluar nuestras elecciones y las consecuencias de una vida entregada al ruido digital.</description>
       <content>&lt;h1 id=&#34;minimalismo-digital&#34;&gt;Minimalismo Digital&lt;/h1&gt;
