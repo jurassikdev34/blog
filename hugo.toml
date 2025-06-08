@@ -73,7 +73,9 @@ theme = "terminal-1"
           identifier = "sobre"
           name = "Sobre"
           url = "/sobre"
+	  weight = 2 
 	[[languages.en.menu.main]]
-	  identifier = "posts"
+	  identifier = "index"
 	  name = "Posts"
-	  url = "/posts/"
+	  url = "/indice"
+	  weight = 1

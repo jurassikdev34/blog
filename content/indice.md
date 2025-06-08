@@ -9,8 +9,9 @@ layout: "page"
 1. [Los Inicios](posts/1-los-inicios.md)
 2. [Minimalismo Digital](posts/2-minimalismo-digital.md)
 3. [Privacidad Digital](posts/3-privacidad-digita.md)
-4.  [Bitcoin](posts/4-bitcoin.md)
+4. [Bitcoin](posts/4-bitcoin.md)
 5. [Navidad](posts/5-navidad.md)
+6. [¿El final o el inicio?](posts/6-elfinal.md)
 
 ---
 
