@@ -3,7 +3,6 @@ languageCode = "es-es"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "terminal-1"
-paginate = 5
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -74,3 +73,7 @@ paginate = 5
           identifier = "sobre"
           name = "Sobre"
           url = "/sobre"
+	[[languages.en.menu.main]]
+	  identifier = "posts"
+	  name = "Posts"
+	  url = "/posts/"
