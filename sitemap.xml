@@ -2,10 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/6-elfinal/</loc>
-    <lastmod>2025-05-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/</loc>
+    <lastmod>2025-06-11T15:17:16+02:00</lastmod>
+  </url><url>
+    <loc>/tags/aforismo/</loc>
+    <lastmod>2025-06-11T15:17:16+02:00</lastmod>
+  </url><url>
+    <loc>/aforismos/</loc>
+    <lastmod>2025-06-11T15:17:16+02:00</lastmod>
+  </url><url>
+    <loc>/categories/aforismos/</loc>
+    <lastmod>2025-06-11T15:17:16+02:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2025-06-11T15:17:16+02:00</lastmod>
+  </url><url>
+    <loc>/tags/filosof%C3%ADa/</loc>
+    <lastmod>2025-06-11T15:17:16+02:00</lastmod>
+  </url><url>
+    <loc>/aforismos/democracia-mediocridad/</loc>
+    <lastmod>2025-06-11T15:17:16+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-06-11T15:17:16+02:00</lastmod>
+  </url><url>
+    <loc>/aforismos/silencio-algoritmos/</loc>
+    <lastmod>2025-06-11T01:15:35+02:00</lastmod>
+  </url><url>
+    <loc>/tags/cr%C3%ADtica-cultural/</loc>
+    <lastmod>2025-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/aforismos/nihilismo-opio-nietzsche/</loc>
+    <lastmod>2025-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/filosof%C3%ADa/</loc>
+    <lastmod>2025-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/nietzsche/</loc>
+    <lastmod>2025-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/6-elfinal/</loc>
     <lastmod>2025-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
@@ -74,9 +110,6 @@
     <loc>/tags/sostenibilidad/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/tradiciones/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -137,9 +170,13 @@
     <loc>/tags/simplificaci%C3%B3n-web/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/ensayos/</loc>
   </url><url>
-    <loc>/indice/</loc>
+    <loc>/ideas/</loc>
+  </url><url>
+    <loc>/ensayos/prueba/</loc>
+  </url><url>
+    <loc>/ideas/prueba/</loc>
   </url><url>
     <loc>/sobre/</loc>
   </url>
