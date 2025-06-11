@@ -1,12 +1,9 @@
-
 ---
-
 title: ¿El final? ¿O el inicio?
 date: 2025-05-11
 draft: false
 ---
 
-Publicado el 11 de mayo de 2025
 
 Bueno, tras bastante tiempo sin escribir nada… pues simplemente he estado ocupado. He comprado un dominio como Dios manda: [jd34.net](https://jd34.net), en referencia, claro está, a "**J**urassik**D**ev**34**". Esto, nos guste o no, marca tanto un final como un inicio. ¿De qué? Pues quién sabe... Lo único certero es que algún cambio ha habido, o está por venir.
 

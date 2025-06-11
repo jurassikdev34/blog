@@ -16,7 +16,6 @@ tags:
 - Partido Nacional Hispanista
 ---
 
-Publicado el 20 de diciembre de 2024
 
 Hoy me he decidido a retomar uno de los temas que más me apasionan: Bitcoin. Como sabrán aquellos que siguen al Partido Nacional Hispanista (PNH), soy un firme defensor de la economía libre que representa esta criptomoneda. En este artículo, no voy a perder el tiempo explicando lo que es Bitcoin ni enumerando sus características, porque eso ya es de sobra conocido por muchos. Lo que quiero hoy es reflexionar de forma profunda sobre lo que realmente implica este fenómeno, que es mucho más que una simple moneda digital.
 

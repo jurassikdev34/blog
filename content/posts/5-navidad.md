@@ -27,8 +27,6 @@ tags:
 - compras online
 ---
 
-Publicado el 22 de diciembre de 2024
-
 Bueno, parecerá raro publicar dos entradas tan seguidas, pero siento la necesidad de reflexionar sobre este tema.
 
 Navidad... esa época de felicidad, amor, familia... y muchas compras innecesarias. Es impresionante observar cómo el consumismo ha devorado el verdadero espíritu de estas fechas. Regalos y más regalos; un no parar de comprar: que si un detalle para los abuelos, otro para los primos, algo para los tíos, los niños, los padres, incluso los vecinos. En fin, una fecha que debería ser de celebración y unión se ha convertido en un desfile de bolsas y paquetes.

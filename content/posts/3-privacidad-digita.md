@@ -11,10 +11,6 @@ tags:
   - JurassikDev34
 ---
 
-# Privacidad Digital
-
-Publicado el 28 de octubre de 2024
-
 Hablar de privacidad digital en la era actual es casi un acto de resistencia. La dependencia que nuestra sociedad ha desarrollado hacia los dispositivos y plataformas digitales ha convertido el concepto de "privacidad" en un lujo que pocos comprenden y menos practican. Es algo que, irónicamente, me parece tanto preocupante como fascinante.
 
 No es necesario mirar muy lejos para ver cómo las grandes tecnológicas han logrado instaurar un modelo donde los datos personales no solo son recolectados, sino comerciados como si se tratase de bienes físicos. La idea de que "si es gratis, tú eres el producto" no es un cliché vacío: es una realidad que define nuestras interacciones digitales. Desde el navegador que usamos hasta las redes sociales donde compartimos nuestras vidas, cada clic deja un rastro, y ese rastro tiene un precio.

@@ -11,10 +11,6 @@ tags:
   - JurassikDev34
 ---
 
-# Minimalismo Digital
-
-Publicado el 21 de octubre de 2024
-
 Vivimos en una sociedad profundamente dependiente de la tecnología, donde las prioridades parecen haber sido secuestradas por algoritmos y notificaciones. Se ha normalizado la hiperconexión, al punto de que la desconexión o la simplificación tecnológica son vistas como actos excéntricos, cuando no como radicales. Pero ¿hasta qué punto aceptamos esta dependencia sin cuestionarla? El **minimalismo digital** se presenta, entonces, como una llamada urgente a reevaluar nuestras elecciones y las consecuencias de una vida entregada al ruido digital.
 
 ## La complicidad de la sociedad

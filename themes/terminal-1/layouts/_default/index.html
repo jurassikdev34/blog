@@ -12,8 +12,9 @@
     {{ if .IsHome }}
       {{ $PageContext = .Site }}
     {{ end }}
-    {{ $paginator := .Paginate (where $PageContext.RegularPages "Type" $contentTypeName) }}
-
+    {{ $allSections := slice "posts" "aforismos" "ideas" "ensayos" }}
+    {{ $pages := where $PageContext.RegularPages "Type" "in" $allSections }}
+    {{ $paginator := .Paginate $pages }}
     {{ range $paginator.Pages }}
       <article class="post on-list">
         <h2 class="post-title">
@@ -30,16 +31,6 @@
             <span class="post-author">{{ . }}</span>
           {{- end -}}
         </div>
-
-        {{ if .Params.tags }}
-          <span class="post-tags">
-            {{ range .Params.tags }}
-            #<a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}">
-              {{- . -}}
-            </a>&nbsp;
-            {{ end }}
-          </span>
-        {{ end }}
 
         {{ partial "cover.html" . }}
 
