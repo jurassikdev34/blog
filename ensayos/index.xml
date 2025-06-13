@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ensayos on JurassikDev34</title>
-    <link>/ensayos/</link>
+    <link>//localhost:1313/ensayos/</link>
     <description>Recent content in Ensayos on JurassikDev34</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/ensayos/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="//localhost:1313/ensayos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>prueba</title>
-      <link>/ensayos/prueba/</link>
+      <link>//localhost:1313/ensayos/prueba/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ensayos/prueba/</guid>
+      <guid>//localhost:1313/ensayos/prueba/</guid>
       <description></description>
       <content></content>
     </item>

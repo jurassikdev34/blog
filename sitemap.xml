@@ -2,188 +2,191 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-06-13T18:20:49+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/aforismo/</loc>
+    <lastmod>2025-06-13T18:20:49+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/aforismos/</loc>
+    <lastmod>2025-06-13T18:20:49+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/aforismos/</loc>
+    <lastmod>2025-06-13T18:20:49+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+    <lastmod>2025-06-13T18:20:49+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/filosof%C3%ADa/</loc>
+    <lastmod>2025-06-13T18:20:49+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/aforismos/hackear-limbo/</loc>
+    <lastmod>2025-06-13T18:20:49+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2025-06-13T18:20:49+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/aforismos/libertad-violencia/</loc>
     <lastmod>2025-06-13T01:13:12+02:00</lastmod>
   </url><url>
-    <loc>/tags/aforismo/</loc>
-    <lastmod>2025-06-13T01:13:12+02:00</lastmod>
-  </url><url>
-    <loc>/aforismos/</loc>
-    <lastmod>2025-06-13T01:13:12+02:00</lastmod>
-  </url><url>
-    <loc>/categories/aforismos/</loc>
-    <lastmod>2025-06-13T01:13:12+02:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2025-06-13T01:13:12+02:00</lastmod>
-  </url><url>
-    <loc>/tags/filosof%C3%ADa/</loc>
-    <lastmod>2025-06-13T01:13:12+02:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-06-13T01:13:12+02:00</lastmod>
-  </url><url>
-    <loc>/aforismos/libertad-violencia/</loc>
-    <lastmod>2025-06-13T01:13:12+02:00</lastmod>
-  </url><url>
-    <loc>/aforismos/escribir-herejia/</loc>
+    <loc>//localhost:1313/aforismos/escribir-herejia/</loc>
     <lastmod>2025-06-12T00:17:57+02:00</lastmod>
   </url><url>
-    <loc>/aforismos/democracia-mediocridad/</loc>
+    <loc>//localhost:1313/aforismos/democracia-mediocridad/</loc>
     <lastmod>2025-06-11T15:17:16+02:00</lastmod>
   </url><url>
-    <loc>/aforismos/silencio-algoritmos/</loc>
+    <loc>//localhost:1313/aforismos/silencio-algoritmos/</loc>
     <lastmod>2025-06-11T01:15:35+02:00</lastmod>
   </url><url>
-    <loc>/tags/cr%C3%ADtica-cultural/</loc>
+    <loc>//localhost:1313/tags/cr%C3%ADtica-cultural/</loc>
     <lastmod>2025-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/aforismos/nihilismo-opio-nietzsche/</loc>
+    <loc>//localhost:1313/aforismos/nihilismo-opio-nietzsche/</loc>
     <lastmod>2025-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/filosof%C3%ADa/</loc>
+    <loc>//localhost:1313/categories/filosof%C3%ADa/</loc>
     <lastmod>2025-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/nietzsche/</loc>
+    <loc>//localhost:1313/tags/nietzsche/</loc>
     <lastmod>2025-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/6-elfinal/</loc>
+    <loc>//localhost:1313/posts/6-elfinal/</loc>
     <lastmod>2025-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2025-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/capitalismo/</loc>
+    <loc>//localhost:1313/tags/capitalismo/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/comercio-electr%C3%B3nico/</loc>
+    <loc>//localhost:1313/tags/comercio-electr%C3%B3nico/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/compras-online/</loc>
+    <loc>//localhost:1313/tags/compras-online/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/consumismo/</loc>
+    <loc>//localhost:1313/tags/consumismo/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/crisis-econ%C3%B3mica/</loc>
+    <loc>//localhost:1313/tags/crisis-econ%C3%B3mica/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/cultura/</loc>
+    <loc>//localhost:1313/tags/cultura/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/econom%C3%ADa/</loc>
+    <loc>//localhost:1313/tags/econom%C3%ADa/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/familia/</loc>
+    <loc>//localhost:1313/tags/familia/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/finanzas/</loc>
+    <loc>//localhost:1313/tags/finanzas/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/globalizaci%C3%B3n/</loc>
+    <loc>//localhost:1313/tags/globalizaci%C3%B3n/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/inflaci%C3%B3n/</loc>
+    <loc>//localhost:1313/tags/inflaci%C3%B3n/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/libertad-econ%C3%B3mica/</loc>
+    <loc>//localhost:1313/tags/libertad-econ%C3%B3mica/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/minimalismo/</loc>
+    <loc>//localhost:1313/tags/minimalismo/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/5-navidad/</loc>
+    <loc>//localhost:1313/posts/5-navidad/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/navidad/</loc>
+    <loc>//localhost:1313/tags/navidad/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/partido-nacional-hispanista/</loc>
+    <loc>//localhost:1313/tags/partido-nacional-hispanista/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/privacidad-digital/</loc>
+    <loc>//localhost:1313/tags/privacidad-digital/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/privacidad-en-l%C3%ADnea/</loc>
+    <loc>//localhost:1313/tags/privacidad-en-l%C3%ADnea/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/regalos/</loc>
+    <loc>//localhost:1313/tags/regalos/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/resistencia-cultural/</loc>
+    <loc>//localhost:1313/tags/resistencia-cultural/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/sostenibilidad/</loc>
+    <loc>//localhost:1313/tags/sostenibilidad/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/tradiciones/</loc>
+    <loc>//localhost:1313/tags/tradiciones/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/valores-cristianos/</loc>
+    <loc>//localhost:1313/tags/valores-cristianos/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/anonimato/</loc>
+    <loc>//localhost:1313/tags/anonimato/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/4-bitcoin/</loc>
+    <loc>//localhost:1313/posts/4-bitcoin/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/bitcoin/</loc>
+    <loc>//localhost:1313/tags/bitcoin/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/criptomonedas/</loc>
+    <loc>//localhost:1313/tags/criptomonedas/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/descentralizaci%C3%B3n/</loc>
+    <loc>//localhost:1313/tags/descentralizaci%C3%B3n/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/econom%C3%ADa-libre/</loc>
+    <loc>//localhost:1313/tags/econom%C3%ADa-libre/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/tecnolog%C3%ADa-blockchain/</loc>
+    <loc>//localhost:1313/tags/tecnolog%C3%ADa-blockchain/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/cr%C3%ADtica/</loc>
+    <loc>//localhost:1313/tags/cr%C3%ADtica/</loc>
     <lastmod>2024-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/dependencia-tecnol%C3%B3gica/</loc>
+    <loc>//localhost:1313/tags/dependencia-tecnol%C3%B3gica/</loc>
     <lastmod>2024-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/jurassikdev34/</loc>
+    <loc>//localhost:1313/tags/jurassikdev34/</loc>
     <lastmod>2024-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/minimalismo-digital/</loc>
+    <loc>//localhost:1313/tags/minimalismo-digital/</loc>
     <lastmod>2024-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/3-privacidad-digita/</loc>
+    <loc>//localhost:1313/posts/3-privacidad-digita/</loc>
     <lastmod>2024-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/software-libre/</loc>
+    <loc>//localhost:1313/tags/software-libre/</loc>
     <lastmod>2024-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/dependencia/</loc>
+    <loc>//localhost:1313/tags/dependencia/</loc>
     <lastmod>2024-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/2-minimalismo-digital/</loc>
+    <loc>//localhost:1313/posts/2-minimalismo-digital/</loc>
     <lastmod>2024-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/internet-libre/</loc>
+    <loc>//localhost:1313/tags/internet-libre/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/1-los-inicios/</loc>
+    <loc>//localhost:1313/posts/1-los-inicios/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/simplificaci%C3%B3n-web/</loc>
+    <loc>//localhost:1313/tags/simplificaci%C3%B3n-web/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/ensayos/</loc>
+    <loc>//localhost:1313/ensayos/</loc>
   </url><url>
-    <loc>/ideas/</loc>
+    <loc>//localhost:1313/ideas/</loc>
   </url><url>
-    <loc>/ensayos/prueba/</loc>
+    <loc>//localhost:1313/ensayos/prueba/</loc>
   </url><url>
-    <loc>/ideas/prueba/</loc>
+    <loc>//localhost:1313/ideas/prueba/</loc>
   </url><url>
-    <loc>/sobre/</loc>
+    <loc>//localhost:1313/sobre/</loc>
   </url>
 </urlset>
