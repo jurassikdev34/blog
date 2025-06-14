@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on JurassikDev34</title>
-    <link>//localhost:1313/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on JurassikDev34</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Jun 2025 18:20:49 +0200</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jun 2025 23:39:32 +0200</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aforismos</title>
-      <link>//localhost:1313/categories/aforismos/</link>
-      <pubDate>Fri, 13 Jun 2025 18:20:49 +0200</pubDate>
+      <link>/categories/aforismos/</link>
+      <pubDate>Sat, 14 Jun 2025 23:39:32 +0200</pubDate>
       
-      <guid>//localhost:1313/categories/aforismos/</guid>
+      <guid>/categories/aforismos/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Filosofía</title>
-      <link>//localhost:1313/categories/filosof%C3%ADa/</link>
+      <link>/categories/filosof%C3%ADa/</link>
       <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/categories/filosof%C3%ADa/</guid>
+      <guid>/categories/filosof%C3%ADa/</guid>
       <description></description>
       <content></content>
     </item>

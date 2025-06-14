@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on JurassikDev34</title>
-    <link>//localhost:1313/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on JurassikDev34</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿El final? ¿O el inicio?</title>
-      <link>//localhost:1313/posts/6-elfinal/</link>
+      <link>/posts/6-elfinal/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/6-elfinal/</guid>
+      <guid>/posts/6-elfinal/</guid>
       <description>&lt;p&gt;Bueno, tras bastante tiempo sin escribir nada… pues simplemente he estado ocupado. He comprado un dominio como Dios manda: &lt;a href=&#34;https://jd34.net&#34;&gt;jd34.net&lt;/a&gt;, en referencia, claro está, a &amp;ldquo;&lt;strong&gt;J&lt;/strong&gt;urassik&lt;strong&gt;D&lt;/strong&gt;ev&lt;strong&gt;34&lt;/strong&gt;&amp;rdquo;. Esto, nos guste o no, marca tanto un final como un inicio. ¿De qué? Pues quién sabe&amp;hellip; Lo único certero es que algún cambio ha habido, o está por venir.&lt;/p&gt;
 &lt;p&gt;Además, al comprar el dominio en &lt;a href=&#34;https://njal.la&#34;&gt;Njalla&lt;/a&gt;, vi una buena oportunidad para apartarme de Cloudflare. ¿La razón? Quizás por sus caídas, quizás por los líos entre las ISPs españolas y el fútbol. O, lo más probable, porque ya no me convence , ni por una cosa ni por la otra. Así que me puse a mirar opciones entre GitLab Pages y GitHub Pages, que son los que mejor conozco. Y, para mi sorpresa, al revisar en GitHub encontré el repositorio archivado de un antiguo blog que ni siquiera recordaba haber creado. Pero bueno, ahí estaban algunos posts. Y se me ocurrió: ¿por qué no incluirlos aquí? Los dos últimos, si no me falla la memoria, juraría que han sido generados por IA… aunque sabrá Dios. Total, ni siquiera recuerdo haber montado eso, y para colmo en aquella época ni dominio tenía. Pero bueno, ahí están.&lt;/p&gt;</description>
       <content>&lt;p&gt;Bueno, tras bastante tiempo sin escribir nada… pues simplemente he estado ocupado. He comprado un dominio como Dios manda: &lt;a href=&#34;https://jd34.net&#34;&gt;jd34.net&lt;/a&gt;, en referencia, claro está, a &amp;ldquo;&lt;strong&gt;J&lt;/strong&gt;urassik&lt;strong&gt;D&lt;/strong&gt;ev&lt;strong&gt;34&lt;/strong&gt;&amp;rdquo;. Esto, nos guste o no, marca tanto un final como un inicio. ¿De qué? Pues quién sabe&amp;hellip; Lo único certero es que algún cambio ha habido, o está por venir.&lt;/p&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title>Navidad</title>
-      <link>//localhost:1313/posts/5-navidad/</link>
+      <link>/posts/5-navidad/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/5-navidad/</guid>
+      <guid>/posts/5-navidad/</guid>
       <description>&lt;p&gt;Bueno, parecerá raro publicar dos entradas tan seguidas, pero siento la necesidad de reflexionar sobre este tema.&lt;/p&gt;
 &lt;p&gt;Navidad&amp;hellip; esa época de felicidad, amor, familia&amp;hellip; y muchas compras innecesarias. Es impresionante observar cómo el consumismo ha devorado el verdadero espíritu de estas fechas. Regalos y más regalos; un no parar de comprar: que si un detalle para los abuelos, otro para los primos, algo para los tíos, los niños, los padres, incluso los vecinos. En fin, una fecha que debería ser de celebración y unión se ha convertido en un desfile de bolsas y paquetes.&lt;/p&gt;</description>
       <content>&lt;p&gt;Bueno, parecerá raro publicar dos entradas tan seguidas, pero siento la necesidad de reflexionar sobre este tema.&lt;/p&gt;
@@ -48,10 +48,10 @@
     
     <item>
       <title>Bitcoin</title>
-      <link>//localhost:1313/posts/4-bitcoin/</link>
+      <link>/posts/4-bitcoin/</link>
       <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/4-bitcoin/</guid>
+      <guid>/posts/4-bitcoin/</guid>
       <description>&lt;p&gt;Hoy me he decidido a retomar uno de los temas que más me apasionan: Bitcoin. Como sabrán aquellos que siguen al Partido Nacional Hispanista (PNH), soy un firme defensor de la economía libre que representa esta criptomoneda. En este artículo, no voy a perder el tiempo explicando lo que es Bitcoin ni enumerando sus características, porque eso ya es de sobra conocido por muchos. Lo que quiero hoy es reflexionar de forma profunda sobre lo que realmente implica este fenómeno, que es mucho más que una simple moneda digital.&lt;/p&gt;</description>
       <content>&lt;p&gt;Hoy me he decidido a retomar uno de los temas que más me apasionan: Bitcoin. Como sabrán aquellos que siguen al Partido Nacional Hispanista (PNH), soy un firme defensor de la economía libre que representa esta criptomoneda. En este artículo, no voy a perder el tiempo explicando lo que es Bitcoin ni enumerando sus características, porque eso ya es de sobra conocido por muchos. Lo que quiero hoy es reflexionar de forma profunda sobre lo que realmente implica este fenómeno, que es mucho más que una simple moneda digital.&lt;/p&gt;
 &lt;p&gt;Bitcoin se ha ganado el título de &amp;ldquo;moneda libre&amp;rdquo; porque, para bien o para mal, proporciona una alternativa sólida al sistema monetario tradicional. Tiene una característica fundamental: la anonimidad. Gracias a ella, quienes viven bajo regímenes autoritarios o con un control económico asfixiante pueden ganar y gastar dinero sin tener que rendir cuentas ni ser perseguidos. Esta posibilidad, que para muchos representa una forma de liberación, también es una espada de doble filo. La misma anonimidad que permite a los oprimidos moverse con libertad, también facilita que algunos usen Bitcoin para fines mucho menos nobles. Y aquí es donde quiero entrar a reflexionar.&lt;/p&gt;
@@ -70,10 +70,10 @@
     
     <item>
       <title>Privacidad Digital</title>
-      <link>//localhost:1313/posts/3-privacidad-digita/</link>
+      <link>/posts/3-privacidad-digita/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/3-privacidad-digita/</guid>
+      <guid>/posts/3-privacidad-digita/</guid>
       <description>&lt;p&gt;Hablar de privacidad digital en la era actual es casi un acto de resistencia. La dependencia que nuestra sociedad ha desarrollado hacia los dispositivos y plataformas digitales ha convertido el concepto de &amp;ldquo;privacidad&amp;rdquo; en un lujo que pocos comprenden y menos practican. Es algo que, irónicamente, me parece tanto preocupante como fascinante.&lt;/p&gt;
 &lt;p&gt;No es necesario mirar muy lejos para ver cómo las grandes tecnológicas han logrado instaurar un modelo donde los datos personales no solo son recolectados, sino comerciados como si se tratase de bienes físicos. La idea de que &amp;ldquo;si es gratis, tú eres el producto&amp;rdquo; no es un cliché vacío: es una realidad que define nuestras interacciones digitales. Desde el navegador que usamos hasta las redes sociales donde compartimos nuestras vidas, cada clic deja un rastro, y ese rastro tiene un precio.&lt;/p&gt;</description>
       <content>&lt;p&gt;Hablar de privacidad digital en la era actual es casi un acto de resistencia. La dependencia que nuestra sociedad ha desarrollado hacia los dispositivos y plataformas digitales ha convertido el concepto de &amp;ldquo;privacidad&amp;rdquo; en un lujo que pocos comprenden y menos practican. Es algo que, irónicamente, me parece tanto preocupante como fascinante.&lt;/p&gt;
@@ -90,10 +90,10 @@
     
     <item>
       <title>Minimalismo Digital</title>
-      <link>//localhost:1313/posts/2-minimalismo-digital/</link>
+      <link>/posts/2-minimalismo-digital/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/2-minimalismo-digital/</guid>
+      <guid>/posts/2-minimalismo-digital/</guid>
       <description>&lt;p&gt;Vivimos en una sociedad profundamente dependiente de la tecnología, donde las prioridades parecen haber sido secuestradas por algoritmos y notificaciones. Se ha normalizado la hiperconexión, al punto de que la desconexión o la simplificación tecnológica son vistas como actos excéntricos, cuando no como radicales. Pero ¿hasta qué punto aceptamos esta dependencia sin cuestionarla? El &lt;strong&gt;minimalismo digital&lt;/strong&gt; se presenta, entonces, como una llamada urgente a reevaluar nuestras elecciones y las consecuencias de una vida entregada al ruido digital.&lt;/p&gt;</description>
       <content>&lt;p&gt;Vivimos en una sociedad profundamente dependiente de la tecnología, donde las prioridades parecen haber sido secuestradas por algoritmos y notificaciones. Se ha normalizado la hiperconexión, al punto de que la desconexión o la simplificación tecnológica son vistas como actos excéntricos, cuando no como radicales. Pero ¿hasta qué punto aceptamos esta dependencia sin cuestionarla? El &lt;strong&gt;minimalismo digital&lt;/strong&gt; se presenta, entonces, como una llamada urgente a reevaluar nuestras elecciones y las consecuencias de una vida entregada al ruido digital.&lt;/p&gt;
 &lt;h2 id=&#34;la-complicidad-de-la-sociedad&#34;&gt;La complicidad de la sociedad&lt;/h2&gt;
@@ -109,10 +109,10 @@
     
     <item>
       <title>Los Inicios</title>
-      <link>//localhost:1313/posts/1-los-inicios/</link>
+      <link>/posts/1-los-inicios/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/1-los-inicios/</guid>
+      <guid>/posts/1-los-inicios/</guid>
       <description>&lt;p&gt;Este primer post será algo similar a &lt;a href=&#34;https://09072007.xyz/sobre&#34;&gt;Sobre&lt;/a&gt;, pero aquí no vengo a hablar de mí, sino a presentar el propósito de este blog. La razón de ser de esta bitácora digital no es otra que la de desafiar el concepto mismo de &amp;ldquo;modernidad&amp;rdquo; que se nos ha impuesto en Internet. Me propongo aquí abogar por una vuelta a lo básico, a un entorno en línea que sea ante todo libre, genuino y menos dominado por las grandes entidades corporativas.&lt;/p&gt;</description>
       <content>&lt;p&gt;Este primer post será algo similar a &lt;a href=&#34;https://09072007.xyz/sobre&#34;&gt;Sobre&lt;/a&gt;, pero aquí no vengo a hablar de mí, sino a presentar el propósito de este blog. La razón de ser de esta bitácora digital no es otra que la de desafiar el concepto mismo de &amp;ldquo;modernidad&amp;rdquo; que se nos ha impuesto en Internet. Me propongo aquí abogar por una vuelta a lo básico, a un entorno en línea que sea ante todo libre, genuino y menos dominado por las grandes entidades corporativas.&lt;/p&gt;
 &lt;p&gt;La iniciativa detrás de este blog es clara: contribuir a un Internet más sencillo y más libre. Como algunos ya sabrán, soy un firme defensor del código libre o, en inglés, &amp;ldquo;Free Software&amp;rdquo;, no solo como un conjunto de licencias o prácticas técnicas, sino como una filosofía que defiende el derecho de todos a entender, modificar y compartir lo que usamos. Hoy en día, la tecnología nos rodea a tal punto que parecería impensable cualquier actividad sin ella, pero en mi opinión, esta dependencia es peligrosa. La verdadera tecnología liberadora es aquella que nosotros controlamos, no la que controla nuestra atención.&lt;/p&gt;
