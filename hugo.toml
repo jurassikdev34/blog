@@ -11,7 +11,7 @@ pagination.pagerSize = 3
   contentTypeName = "posts"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 5
+  showMenuItems = 10
 
   # show selector to switch language
   showLanguageSelector = false
@@ -72,21 +72,29 @@ pagination.pagerSize = 3
       [languages.en.menu]
         [[languages.en.menu.main]]
           identifier = "Posts"
-          name = "Posts"
+          name = "4. Posts"
           url = "/posts/"
-	        [[languages.en.menu.main]]
+	[[languages.en.menu.main]]
           identifier = "Aforismos"
-          name = "Aforismos"
+          name = "1. Aforismos"
           url = "/aforismos/"
         [[languages.en.menu.main]]
           identifier = "ideas"
-          name = "Ideas"
+          name = "2. Ideas"
           url = "/ideas/"
-	        [[languages.en.menu.main]]
+	[[languages.en.menu.main]]
           identifier = "Ensayos"
-          name = "Ensayos"
+          name = "3. Ensayos"
           url = "/ensayos/"
-	        [[languages.en.menu.main]]
+	[[languages.en.menu.main]]
           identifier = "Sobre"
-          name = "Sobre"
+          name = "6. Sobre"
           url = "/sobre"
+	[[languages.en.menu.main]]
+       	  identifier = "Proyectos"
+	  name = "5. Proyectos"
+	  url = "/projects/"
+	[[languages.en.menu.main]]
+	  identifier = "Contacto"
+	  name = "7. Contacto"
+	  url = "/contact"

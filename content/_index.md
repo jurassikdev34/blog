@@ -1,23 +1,28 @@
-# Bienvenido al Archivo de JurassikDev34
+# 🏛 Bienvenido al Archivo de JurassikDev34
 
-Una colección de pensamientos, provocaciones y exploraciones. Aquí encontrará reflexiones breves, intuiciones densas, y argumentos extensos. Todo lo que late detrás del Caudillo de Hispania.
+Esto no es un blog.
+Es un archivo de guerra, un laboratorio de pensamiento, una colección de herramientas e ideas al servicio de la soberanía.
+Aquí no encontrará publicidad, algoritmos ni concesiones. Solo texto, código, doctrina y desobediencia intelectual.
 
 ---
 
-## Secciones Principales
+## ✳️ Secciones Principales
 
 - ### 📜 [Aforismos](aforismos/)
-  Sentencias breves, de pluma aguda. Chispazos de pensamiento, esquirlas de verdad.
+  Sentencias breves. Filosofía en píldoras. Chispas afiladas contra el conformismo digital.
 
 - ### 💡 [Ideas](ideas/)
-  Notas conceptuales, embriones de ensayo. Materia prima para futuros desarrollos.
+  Esbozos, hipótesis, intuiciones políticas y técnicas. No están terminadas, pero ya incomodan.
 
 - ### 🖋️ [Ensayos](ensayos/)
-  Tratados completos, articulaciones extensas. Aquí se razona sin prisa, con hondura.
+  Textos largos, análisis profundos, crítica estructural. Para leer con calma... o con rabia.
 
 - ### 🗞️ [Posts](posts/)
-  Actualizaciones, crónicas personales, publicaciones varias. El pulso del presente.
+  Bitácora personal, comentarios del día, registros. A veces íntimos, a veces incendiarios.
+
+- ### 🛠️ [Proyectos](projects/)
+  Software libre, tecnología, desarrollo, politica e investigación . Porque pensar también es construir.
 
 ---
 
-## Últimas publicaciones:
+## 🔥 Últimas publicaciones:
