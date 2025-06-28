@@ -4,12 +4,11 @@ date = "{{ .Date }}"
 slug = "{{ .Name }}"
 author = "JurassikDev34"
 authorTwitter = "jurassikdev34" #do not include @
-cover = ""
+cover = "/images/aforismos/{{ .Name }}.png"
 tags = ["aforismo", "filosofía"]
 categories = ["aforismos"]
 description = "Una reflexión crítica sobre la banalización del pensamiento profundo."
-+showFullContent = false
-readingTime = false
+showFullContent = false
 hideComments = false
 +++
 
@@ -29,7 +28,6 @@ description = "Una reflexión crítica sobre la banalización del pensamiento pr
 
 {{ replace .Name "-" " " | title }}
 
-{{/* 
+{{/*
 Escriba aquí su aforismo. Sea claro, breve, contundente y filosóficamente cargado.
 */}}
-
