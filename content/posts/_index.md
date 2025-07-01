@@ -1,8 +1,3 @@
-+++
-title = "Posts"
-description = "Crónicas personales, apuntes urgentes y fragmentos del presente."
-+++
-
 # 🗞️ Bitácora del Presente
 
 Aquí se recoge **el pulso inmediato del archivo**: textos más breves, crónicas de situación, anuncios, notas personales, reflexiones políticas o técnicas que no exigen la profundidad de un ensayo, pero que tampoco merecen el olvido.

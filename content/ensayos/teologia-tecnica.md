@@ -1,16 +1,21 @@
-+++
-title = "El dios de las máquinas"
-date = "2025-06-28T12:19:35+02:00"
-slug = "teologia-tecnica"
-author = "JurassikDev34"
-authorTwitter = "jurassikdev34" 
-cover = "/images/ensayos/teologia-tecnica.png"
-tags = ["ensayo", "teologia", "filosofía"]
-categories = ["ensayos"]
-description = "Este ensayo nace del asombro —y el horror— ante el creciente culto a la técnica que invade nuestras vidas. ¿Dónde queda Dios en medio del ruido digital? ¿Puede la teología dialogar con un mundo que ya no contempla, sólo calcula? En estas líneas propongo una reflexión para los cristianos que aún creen que el Verbo se hizo carne… y no código."
-showFullContent = false
-hideComments = false
-+++
+---
+title: "El dios de las máquinas"
+date: "2025-06-28T12:19:35+02:00"
+slug: "teologia-tecnica"
+author: "JurassikDev34"
+authorTwitter: "jurassikdev34"
+cover: "/images/ensayos/teologia-tecnica.png"
+tags:
+  - ensayo
+  - teologia
+  - filosofía
+categories:
+  - ensayos
+description: "Este ensayo nace del asombro —y el horror— ante el creciente culto a la técnica que invade nuestras vidas. ¿Dónde queda Dios en medio del ruido digital? ¿Puede la teología dialogar con un mundo que ya no contempla, sólo calcula? En estas líneas propongo una reflexión para los cristianos que aún creen que el Verbo se hizo carne… y no código."
+showFullContent: false
+hideComments: false
+---
+
 
 
 

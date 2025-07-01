@@ -1,10 +1,11 @@
-+++
-title = "Partido Nacional Hispanista (PNH)"
-date = 2025-06-08
-author = "JurassikDev34"
-description = "Germen doctrinal, político y espiritual por la restauración de la hispanidad y la soberanía tecnológica."
-slug = "pnh"
-+++
+---
+title: "Partido Nacional Hispanista (PNH)"
+date: 2025-06-08
+author: "JurassikDev34"
+description: "Germen doctrinal, político y espiritual por la restauración de la hispanidad y la soberanía tecnológica."
+slug: "pnh"
+---
+
 
 # ⚔️ Partido Nacional Hispanista (PNH)
 

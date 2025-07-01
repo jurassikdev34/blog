@@ -1,10 +1,10 @@
-+++
-title = "ÍCARO-I"
-date = 2025-06-08
-author = "JurassikDev34"
-description = "Prototipo de reactor de fusión doméstico impulsado por la División de Investigación Nuclear Hispanista (DINH)."
-slug = "icaro-i"
-+++
+---
+title: "ÍCARO-I"
+date: 2025-06-08
+author: "JurassikDev34"
+description: "Prototipo de reactor de fusión doméstico impulsado por la División de Investigación Nuclear Hispanista (DINH)."
+slug: "icaro-i"
+---
 
 # ☢️ ÍCARO-I — Traer el Sol a casa
 

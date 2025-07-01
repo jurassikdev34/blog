@@ -1,10 +1,11 @@
-+++
-title = "ONZA φ"
-date = 2025-06-08
-author = "JurassikDev34"
-description = "Cohete experimental casero desarrollado bajo el espíritu científico del hispanismo insurgente."
-slug = "onzaphi"
-+++
+---
+title: "ONZA φ"
+date: 2025-06-08
+author: "JurassikDev34"
+description: "Cohete experimental casero desarrollado bajo el espíritu científico del hispanismo insurgente."
+slug: "onzaphi"
+---
+
 
 # 🚀 ONZA φ: Ciencia desde el subsuelo
 

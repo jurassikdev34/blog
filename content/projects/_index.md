@@ -1,8 +1,3 @@
-+++
-title = "Proyectos"
-description = "Iniciativas tecnopolíticas impulsadas por el hispanismo científico y militante."
-+++
-
 # ⚙️ Archivo de Proyectos
 
 Aquí se reúnen los artefactos, experimentos y estructuras nacidas del **Partido Nacional Hispanista** (PNH) y sus divisiones técnicas: la **Agencia Hispánica de Exploración Aeroespacial (AHExA)** y la **División de Investigación Nuclear Hispanista (DINH)**.

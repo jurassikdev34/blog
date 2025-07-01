@@ -1,8 +1,3 @@
-+++
-title = "Ensayos"
-description = "Tratados extensos, razonamientos completos, arquitectura del pensamiento."
-+++
-
 # 🖋️ Archivo de Ensayos
 
 Aquí se levantarán los pilares de mi pensamiento sistemático. No hallará usted frases sueltas ni intuiciones embrionarias: esto es territorio de rigor, donde la palabra no improvisa y cada argumento sostiene un edificio.
