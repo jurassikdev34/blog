@@ -3,28 +3,39 @@ title: Navidad
 date: 2024-12-22
 draft: false
 tags:
-- navidad
-- economía 
-- libertad económica
-- privacidad digital
-- finanzas
-- inflación
-- Partido Nacional Hispanista
-- consumismo
-- cultura
-- familia
-- tradiciones
-- regalos
-- capitalismo
-- globalización
-- comercio electrónico
-- privacidad en línea
-- crisis económica
-- sostenibilidad
-- minimalismo
-- valores cristianos
-- resistencia cultural
-- compras online
+  - navidad
+  - economía
+  - libertad
+  - económica
+  - privacidad
+  - digital
+  - finanzas
+  - inflación
+  - Partido
+  - Nacional
+  - Hispanista
+  - consumismo
+  - cultura
+  - familia
+  - tradiciones
+  - regalos
+  - capitalismo
+  - globalización
+  - comercio
+  - electrónico
+  - privacidad
+  - en
+  - línea
+  - crisis
+  - económica
+  - sostenibilidad
+  - minimalismo
+  - valores
+  - cristianos
+  - resistencia
+  - cultural
+  - compras
+  - online
 ---
 
 Bueno, parecerá raro publicar dos entradas tan seguidas, pero siento la necesidad de reflexionar sobre este tema.
