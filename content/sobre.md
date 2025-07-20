@@ -17,7 +17,7 @@ Defiendo el **software libre**, el **minimalismo digital**, y la **privacidad te
 
 ## Mi Educación y Aspiraciones
 
-Actualmente curso 2º de Bachillerato, con especial pasión por la informática, las matemáticas, la física y la filosofía. Aspiro a estudiar el doble grado en **Matemáticas y Filosofía**, convencido de que ambas disciplinas, combinadas, son una forma rigurosa de aproximarse a la verdad: una con números, la otra con palabras.
+He finalizado 2º de Bachillerato, etapa en la que cultivé una especial pasión por la informática, las matemáticas, la física y la filosofía. En septiembre comenzaré mis estudios en **Ingeniería Eléctrica**, convencido de que la técnica y el pensamiento riguroso son herramientas esenciales para transformar el mundo: una con circuitos y energía, la otra con ideas y principios.
 
 ## Política, Filosofía y el Partido Nacional Hispanista
 
