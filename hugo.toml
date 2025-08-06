@@ -1,0 +1,100 @@
+baseurl = "/"
+languageCode = "es-es"
+# Add it only if you keep the theme in the `themes` directory.
+# Remove it if you use the theme as a remote Hugo Module.
+theme = "terminal-1"
+pagination.pagerSize = 3
+
+[params]
+  # dir name of your main content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 10
+
+  # show selector to switch language
+  showLanguageSelector = false
+
+  # set theme to full screen width
+  fullWidthTheme = false
+
+  # center theme with default width
+  centerTheme = true
+
+  # if your resource directory contains an image called `cover.(jpg|png|webp)`,
+  # then the file will be used as a cover automatically.
+  # With this option you don't have to put the `cover` param in a front-matter.
+  autoCover = true
+
+  # set post to show the last updated
+  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  showLastUpdated = false
+
+  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+  # updatedDatePrefix = "Updated"
+
+  # whether to show a page's estimated reading time
+  readingTime = true
+
+  # whether to show a table of contents
+  # can be overridden in a page's front-matter
+  # Toc = false # default
+
+  # set title for the table of contents
+  # can be overridden in a page's front-matter
+  # TocTitle = "Table of Contents" # default
+
+[languages]
+  [languages.en]
+    languageName = "Español"
+    title = "JurassikDev34"
+
+    [languages.en.params]
+      subtitle = "Un blog para explorar un Internet más sencillo"
+      owner = "JurassikDev34"
+      keywords = ""
+      copyright = "Copy-left"
+      menuMore = "Mostrar más"
+      readMore = "Leer más"
+      readOtherPosts = "Leer otros post"
+      newerPosts = "Posts más nuevos"
+      olderPosts = "Post más viejos"
+      missingContentMessage = "La cosa se está complicando - Página no encontrada..."
+      missingBackButtonLabel = "Volver a la pagina principal"
+      minuteReadingTime = "min read"
+      words = "words"
+
+      [languages.en.params.logo]
+        logoText = "JurassikDev34"
+        logoHomeLink = "/"
+
+      [languages.en.menu]
+        [[languages.en.menu.main]]
+          identifier = "Posts"
+          name = "4. Posts"
+          url = "/posts/"
+	[[languages.en.menu.main]]
+          identifier = "Aforismos"
+          name = "1. Aforismos"
+          url = "/aforismos/"
+        [[languages.en.menu.main]]
+          identifier = "ideas"
+          name = "2. Ideas"
+          url = "/ideas/"
+	[[languages.en.menu.main]]
+          identifier = "Ensayos"
+          name = "3. Ensayos"
+          url = "/ensayos/"
+	[[languages.en.menu.main]]
+          identifier = "Sobre"
+          name = "6. Sobre"
+          url = "/sobre"
+	[[languages.en.menu.main]]
+       	  identifier = "Proyectos"
+	  name = "5. Proyectos"
+	  url = "/projects/"
+	[[languages.en.menu.main]]
+	  identifier = "Contacto"
+	  name = "7. Contacto"
+	  url = "/contact"
