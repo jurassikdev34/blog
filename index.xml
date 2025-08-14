@@ -2,28 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JurassikDev34</title>
-    <link>/</link>
+    <link>//localhost:44993/</link>
     <description>Recent content on JurassikDev34</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Aug 2025 12:49:28 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>HelloWorld</title>
-      <link>/posts/helloworld/</link>
-      <pubDate>Tue, 12 Aug 2025 12:49:28 +0200</pubDate>
-      
-      <guid>/posts/helloworld/</guid>
-      <description>&lt;p&gt;Testing&lt;/p&gt;</description>
-      <content>&lt;p&gt;Testing&lt;/p&gt;
-</content>
-    </item>
-    
+    <lastBuildDate>Sun, 06 Jul 2025 21:57:04 +0200</lastBuildDate><atom:link href="//localhost:44993/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La inteligencia sin tradición es como una espada sin empuñadura: corta, pero no se sostiene.</title>
-      <link>/aforismos/inteligencia-espada/</link>
+      <link>//localhost:44993/aforismos/inteligencia-espada/</link>
       <pubDate>Sun, 06 Jul 2025 21:57:04 +0200</pubDate>
       
-      <guid>/aforismos/inteligencia-espada/</guid>
+      <guid>//localhost:44993/aforismos/inteligencia-espada/</guid>
       <description>&lt;p&gt;La modernidad idolatra la inteligencia como si flotara en el vacío, pero este aforismo reclama su anclaje: la tradición. Una mente brillante sin raíces se convierte en arma de doble filo, peligrosa incluso para quien la porta. Aquí se defiende la herencia como fundamento, no como lastre: sin ella, la inteligencia se vuelve efímera, una moda más, incapaz de sostener la civilización.&lt;/p&gt;</description>
       <content>&lt;p&gt;La modernidad idolatra la inteligencia como si flotara en el vacío, pero este aforismo reclama su anclaje: la tradición. Una mente brillante sin raíces se convierte en arma de doble filo, peligrosa incluso para quien la porta. Aquí se defiende la herencia como fundamento, no como lastre: sin ella, la inteligencia se vuelve efímera, una moda más, incapaz de sostener la civilización.&lt;/p&gt;
 </content>
@@ -31,10 +20,10 @@
     
     <item>
       <title>Algunos predican el amor universal mientras aplauden las bombas con bandera.</title>
-      <link>/aforismos/amor-bombas/</link>
+      <link>//localhost:44993/aforismos/amor-bombas/</link>
       <pubDate>Wed, 25 Jun 2025 00:43:15 +0200</pubDate>
       
-      <guid>/aforismos/amor-bombas/</guid>
+      <guid>//localhost:44993/aforismos/amor-bombas/</guid>
       <description>&lt;p&gt;Hipocresía condecorada. Se señala aquí la incoherencia entre discurso y praxis, entre los labios que hablan de paz y las manos que financian la guerra. Esta frase desenmascara al moralista de salón, que ondea banderas de arcoíris mientras justifica la muerte ajena bajo el estandarte nacional. Es una denuncia de la moral maquillada con propaganda.&lt;/p&gt;</description>
       <content>&lt;p&gt;Hipocresía condecorada. Se señala aquí la incoherencia entre discurso y praxis, entre los labios que hablan de paz y las manos que financian la guerra. Esta frase desenmascara al moralista de salón, que ondea banderas de arcoíris mientras justifica la muerte ajena bajo el estandarte nacional. Es una denuncia de la moral maquillada con propaganda.&lt;/p&gt;
 </content>
@@ -42,10 +31,10 @@
     
     <item>
       <title>No hay pensamiento más peligroso que aquel que aún no ha sido formulado.</title>
-      <link>/aforismos/pensamiento-sin-formular/</link>
+      <link>//localhost:44993/aforismos/pensamiento-sin-formular/</link>
       <pubDate>Sat, 14 Jun 2025 23:39:32 +0200</pubDate>
       
-      <guid>/aforismos/pensamiento-sin-formular/</guid>
+      <guid>//localhost:44993/aforismos/pensamiento-sin-formular/</guid>
       <description>&lt;p&gt;Aquí se evoca el poder latente del inconcebible. Lo que no ha sido dicho todavía es lo que más amenaza al orden. La idea virgen, aún no pronunciada, es una carga explosiva sin detonar. Este aforismo nos recuerda que el pensamiento más subversivo no es el que se grita, sino el que aún se gesta, en las sombras del lenguaje, esperando su momento para incendiar la historia.&lt;/p&gt;</description>
       <content>&lt;p&gt;Aquí se evoca el poder latente del inconcebible. Lo que no ha sido dicho todavía es lo que más amenaza al orden. La idea virgen, aún no pronunciada, es una carga explosiva sin detonar. Este aforismo nos recuerda que el pensamiento más subversivo no es el que se grita, sino el que aún se gesta, en las sombras del lenguaje, esperando su momento para incendiar la historia.&lt;/p&gt;
 </content>
@@ -53,10 +42,10 @@
     
     <item>
       <title>Todo lo que pienso con libertad termina juzgándome con violencia.</title>
-      <link>/aforismos/libertad-violencia/</link>
+      <link>//localhost:44993/aforismos/libertad-violencia/</link>
       <pubDate>Fri, 13 Jun 2025 01:13:12 +0200</pubDate>
       
-      <guid>/aforismos/libertad-violencia/</guid>
+      <guid>//localhost:44993/aforismos/libertad-violencia/</guid>
       <description>&lt;p&gt;La libertad intelectual no sale gratis. Lo que nace en libertad a menudo regresa como juez. Este aforismo pone el dedo en la llaga: pensar sin ataduras nos expone no solo al mundo, sino a nosotros mismos. Es una violencia silenciosa, la de enfrentarse a lo que uno mismo ha descubierto. Como si el pensamiento fuera un bumerán que, una vez lanzado, regresa para golpearnos con la verdad que no esperábamos.&lt;/p&gt;</description>
       <content>&lt;p&gt;La libertad intelectual no sale gratis. Lo que nace en libertad a menudo regresa como juez. Este aforismo pone el dedo en la llaga: pensar sin ataduras nos expone no solo al mundo, sino a nosotros mismos. Es una violencia silenciosa, la de enfrentarse a lo que uno mismo ha descubierto. Como si el pensamiento fuera un bumerán que, una vez lanzado, regresa para golpearnos con la verdad que no esperábamos.&lt;/p&gt;
 </content>
@@ -64,10 +53,10 @@
     
     <item>
       <title>Escribir es practicar la herejía contra uno mismo.</title>
-      <link>/aforismos/escribir-herejia/</link>
+      <link>//localhost:44993/aforismos/escribir-herejia/</link>
       <pubDate>Thu, 12 Jun 2025 00:17:57 +0200</pubDate>
       
-      <guid>/aforismos/escribir-herejia/</guid>
+      <guid>//localhost:44993/aforismos/escribir-herejia/</guid>
       <description>&lt;p&gt;Escribir, en este sentido, no es consolarse: es traicionarse. Cada palabra escrita es un acto de deslealtad hacia las certezas que nos habitan. Uno se sienta a redactar y acaba profanando sus propias convicciones. Este aforismo exalta la escritura no como confirmación, sino como ruptura interna, como sacrilegio personal. La pluma, entonces, es un puñal dirigido hacia el propio dogma.&lt;/p&gt;</description>
       <content>&lt;p&gt;Escribir, en este sentido, no es consolarse: es traicionarse. Cada palabra escrita es un acto de deslealtad hacia las certezas que nos habitan. Uno se sienta a redactar y acaba profanando sus propias convicciones. Este aforismo exalta la escritura no como confirmación, sino como ruptura interna, como sacrilegio personal. La pluma, entonces, es un puñal dirigido hacia el propio dogma.&lt;/p&gt;
 </content>
@@ -75,10 +64,10 @@
     
     <item>
       <title>La democracia moderna es el arte de convertir la mediocridad en ley.</title>
-      <link>/aforismos/democracia-mediocridad/</link>
+      <link>//localhost:44993/aforismos/democracia-mediocridad/</link>
       <pubDate>Wed, 11 Jun 2025 15:17:16 +0200</pubDate>
       
-      <guid>/aforismos/democracia-mediocridad/</guid>
+      <guid>//localhost:44993/aforismos/democracia-mediocridad/</guid>
       <description>&lt;p&gt;Democracia, ese tótem de la modernidad, ha degenerado en un teatro donde la banalidad se convierte en norma y el talento es sospechoso. Este aforismo no ataca el concepto noble de la democracia clásica, sino su actual parodia: la tiranía de los incompetentes legitimada por el número. Aquí se señala la patología del sistema, donde lo popular sustituye a lo justo y lo vulgar se erige en doctrina.&lt;/p&gt;</description>
       <content>&lt;p&gt;Democracia, ese tótem de la modernidad, ha degenerado en un teatro donde la banalidad se convierte en norma y el talento es sospechoso. Este aforismo no ataca el concepto noble de la democracia clásica, sino su actual parodia: la tiranía de los incompetentes legitimada por el número. Aquí se señala la patología del sistema, donde lo popular sustituye a lo justo y lo vulgar se erige en doctrina.&lt;/p&gt;
 </content>
@@ -86,10 +75,10 @@
     
     <item>
       <title>El nihilismo es el opio de los que creen haber leído a Nietzsche.</title>
-      <link>/aforismos/nihilismo-opio-nietzsche/</link>
+      <link>//localhost:44993/aforismos/nihilismo-opio-nietzsche/</link>
       <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>/aforismos/nihilismo-opio-nietzsche/</guid>
+      <guid>//localhost:44993/aforismos/nihilismo-opio-nietzsche/</guid>
       <description>&lt;p&gt;Nietzsche no fue nihilista: fue su antídoto. Su pensamiento no se construyó para justificar el vacío, sino para forjar una nueva espiritualidad sin muletas. Sin embargo, muchos que se dicen discípulos suyos apenas han leído &lt;em&gt;Así habló Zaratustra&lt;/em&gt;, y lo hacen como quien subraya frases de Paulo Coelho: con el entusiasmo de quien no entiende nada pero quiere sonar profundo.&lt;/p&gt;
 &lt;p&gt;Este aforismo señala la comodidad del nihilismo como coartada: ya no hace falta pensar, ni creer, ni sufrir&amp;hellip; solo hay que declararlo todo absurdo y sentarse a mirar memes.&lt;/p&gt;</description>
       <content>&lt;p&gt;Nietzsche no fue nihilista: fue su antídoto. Su pensamiento no se construyó para justificar el vacío, sino para forjar una nueva espiritualidad sin muletas. Sin embargo, muchos que se dicen discípulos suyos apenas han leído &lt;em&gt;Así habló Zaratustra&lt;/em&gt;, y lo hacen como quien subraya frases de Paulo Coelho: con el entusiasmo de quien no entiende nada pero quiere sonar profundo.&lt;/p&gt;
@@ -99,10 +88,10 @@
     
     <item>
       <title>ÍCARO-I</title>
-      <link>/projects/icaro-i/</link>
+      <link>//localhost:44993/projects/icaro-i/</link>
       <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>/projects/icaro-i/</guid>
+      <guid>//localhost:44993/projects/icaro-i/</guid>
       <description>&lt;h1 id=&#34;-ícaro-i--traer-el-sol-a-casa&#34;&gt;☢️ ÍCARO-I — Traer el Sol a casa&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;ÍCARO-I&lt;/strong&gt; es el primer aliento del &lt;em&gt;Proyecto ÍCARO&lt;/em&gt;: un intento osado, casero y tecnopolítico por construir un reactor de fusión nuclear a escala doméstica. Alimentado con hidrógeno extraído mediante electrólisis, nace bajo el auspicio de la &lt;strong&gt;División de Investigación Nuclear Hispanista&lt;/strong&gt; (&lt;strong&gt;DINH&lt;/strong&gt;), brazo científico-nuclear oficial (no formalizado) del &lt;strong&gt;Partido Nacional Hispanista&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;No pretendemos competir con ITER.&lt;br&gt;
@@ -145,10 +134,10 @@ Un paso simbólico hacia un horizonte en el que Hispania no solo consuma energí
     
     <item>
       <title>ONZA φ</title>
-      <link>/projects/onzaphi/</link>
+      <link>//localhost:44993/projects/onzaphi/</link>
       <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>/projects/onzaphi/</guid>
+      <guid>//localhost:44993/projects/onzaphi/</guid>
       <description>&lt;h1 id=&#34;-onza-φ-ciencia-desde-el-subsuelo&#34;&gt;🚀 ONZA φ: Ciencia desde el subsuelo&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;ONZA φ&lt;/strong&gt; no es sólo un cohete. Es una declaración de guerra contra la apatía.&lt;br&gt;
 Es ciencia desde la trinchera, ingeniería doméstica con ambición orbital,&lt;br&gt;
@@ -207,10 +196,10 @@ Falta el viento, la pista y el momento justo.&lt;/p&gt;
     
     <item>
       <title>Partido Nacional Hispanista (PNH)</title>
-      <link>/projects/pnh/</link>
+      <link>//localhost:44993/projects/pnh/</link>
       <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>/projects/pnh/</guid>
+      <guid>//localhost:44993/projects/pnh/</guid>
       <description>&lt;h1 id=&#34;-partido-nacional-hispanista-pnh&#34;&gt;⚔️ Partido Nacional Hispanista (PNH)&lt;/h1&gt;
 &lt;p&gt;No es un partido.&lt;br&gt;
 Es un grito. Un mapa. Una respuesta colectiva al desarraigo.&lt;/p&gt;
@@ -273,10 +262,10 @@ Cada texto publicado, cada línea de código libre escrito, cada artículo compa
     
     <item>
       <title>Contacto</title>
-      <link>/contact/</link>
+      <link>//localhost:44993/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>//localhost:44993/contact/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;🐘 Mastodon: &lt;a href=&#34;https://fosstodon.org/@JurassikDev34&#34;&gt;@JurassikDev34@fosstodon.org&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;💻 GitHub: &lt;a href=&#34;https://github.com/JurassikDev34&#34;&gt;github.com/JurassikDev34&lt;/a&gt;&lt;/li&gt;
@@ -296,10 +285,10 @@ Cada texto publicado, cada línea de código libre escrito, cada artículo compa
     
     <item>
       <title>Sobre JurassikDev34</title>
-      <link>/sobre/</link>
+      <link>//localhost:44993/sobre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sobre/</guid>
+      <guid>//localhost:44993/sobre/</guid>
       <description>&lt;h1 id=&#34;sobre-jurassikdev34&#34;&gt;Sobre JurassikDev34&lt;/h1&gt;
 &lt;p&gt;Soy hispanista, programador y escritor. Pero, sobre todo, soy un individuo en constante proceso de construcción. Este espacio es, a su vez, espejo y cincel: refleja lo que soy y modela lo que seré.&lt;/p&gt;
 &lt;p&gt;Nací al mundo del software siendo adolescente, cuando, siguiendo viejos tutoriales de Java, descubrí que las máquinas también podían obedecer ideas humanas. Continué con Python, me asomé a las fauces de C++, y más tarde, por pura necesidad de crear, domé HTML y CSS sin maestro alguno.&lt;/p&gt;</description>

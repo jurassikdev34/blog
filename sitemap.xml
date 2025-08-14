@@ -2,84 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
-    <lastmod>2025-08-12T12:49:28+02:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2025-08-12T12:49:28+02:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2025-08-12T12:49:28+02:00</lastmod>
-  </url><url>
-    <loc>/posts/helloworld/</loc>
-    <lastmod>2025-08-12T12:49:28+02:00</lastmod>
-  </url><url>
-    <loc>/categories/posts/</loc>
-    <lastmod>2025-08-12T12:49:28+02:00</lastmod>
-  </url><url>
-    <loc>/aforismos/</loc>
+    <loc>//localhost:44993/</loc>
     <lastmod>2025-07-06T21:57:04+02:00</lastmod>
   </url><url>
-    <loc>/tags/aforismo/</loc>
+    <loc>//localhost:44993/aforismos/</loc>
     <lastmod>2025-07-06T21:57:04+02:00</lastmod>
   </url><url>
-    <loc>/categories/aforismos/</loc>
+    <loc>//localhost:44993/tags/aforismo/</loc>
     <lastmod>2025-07-06T21:57:04+02:00</lastmod>
   </url><url>
-    <loc>/tags/filosof%C3%ADa/</loc>
+    <loc>//localhost:44993/categories/aforismos/</loc>
     <lastmod>2025-07-06T21:57:04+02:00</lastmod>
   </url><url>
-    <loc>/aforismos/inteligencia-espada/</loc>
+    <loc>//localhost:44993/categories/</loc>
     <lastmod>2025-07-06T21:57:04+02:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:44993/tags/filosof%C3%ADa/</loc>
     <lastmod>2025-07-06T21:57:04+02:00</lastmod>
   </url><url>
-    <loc>/aforismos/amor-bombas/</loc>
+    <loc>//localhost:44993/aforismos/inteligencia-espada/</loc>
+    <lastmod>2025-07-06T21:57:04+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:44993/tags/</loc>
+    <lastmod>2025-07-06T21:57:04+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:44993/aforismos/amor-bombas/</loc>
     <lastmod>2025-06-25T00:43:15+02:00</lastmod>
   </url><url>
-    <loc>/aforismos/pensamiento-sin-formular/</loc>
+    <loc>//localhost:44993/aforismos/pensamiento-sin-formular/</loc>
     <lastmod>2025-06-14T23:39:32+02:00</lastmod>
   </url><url>
-    <loc>/aforismos/libertad-violencia/</loc>
+    <loc>//localhost:44993/aforismos/libertad-violencia/</loc>
     <lastmod>2025-06-13T01:13:12+02:00</lastmod>
   </url><url>
-    <loc>/aforismos/escribir-herejia/</loc>
+    <loc>//localhost:44993/aforismos/escribir-herejia/</loc>
     <lastmod>2025-06-12T00:17:57+02:00</lastmod>
   </url><url>
-    <loc>/aforismos/democracia-mediocridad/</loc>
+    <loc>//localhost:44993/aforismos/democracia-mediocridad/</loc>
     <lastmod>2025-06-11T15:17:16+02:00</lastmod>
   </url><url>
-    <loc>/tags/cr%C3%ADtica-cultural/</loc>
+    <loc>//localhost:44993/tags/cr%C3%ADtica-cultural/</loc>
     <lastmod>2025-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/aforismos/nihilismo-opio-nietzsche/</loc>
+    <loc>//localhost:44993/aforismos/nihilismo-opio-nietzsche/</loc>
     <lastmod>2025-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/filosof%C3%ADa/</loc>
+    <loc>//localhost:44993/categories/filosof%C3%ADa/</loc>
     <lastmod>2025-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/nietzsche/</loc>
+    <loc>//localhost:44993/tags/nietzsche/</loc>
     <lastmod>2025-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>//localhost:44993/projects/</loc>
     <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/icaro-i/</loc>
+    <loc>//localhost:44993/projects/icaro-i/</loc>
     <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/onzaphi/</loc>
+    <loc>//localhost:44993/projects/onzaphi/</loc>
     <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/pnh/</loc>
+    <loc>//localhost:44993/projects/pnh/</loc>
     <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/ensayos/</loc>
+    <loc>//localhost:44993/ensayos/</loc>
   </url><url>
-    <loc>/ideas/</loc>
+    <loc>//localhost:44993/ideas/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>//localhost:44993/posts/</loc>
   </url><url>
-    <loc>/sobre/</loc>
+    <loc>//localhost:44993/contact/</loc>
+  </url><url>
+    <loc>//localhost:44993/sobre/</loc>
   </url>
 </urlset>

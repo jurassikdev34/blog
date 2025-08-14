@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JurassikDev34</title>
-    <link>/ideas/</link>
+    <link>//localhost:44993/ideas/</link>
     <description>Recent content on JurassikDev34</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/ideas/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="//localhost:44993/ideas/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
